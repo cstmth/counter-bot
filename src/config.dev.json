@@ -1,0 +1,6 @@
+{
+  "token": "token-goes-here",
+  "expressions": [
+    "expressions-to-match-go-here"
+  ]
+}
